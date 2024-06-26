@@ -1,0 +1,7 @@
+console.log("3"-8)
+console.log(9%'3')
+console.log(9%3)
+console.log(3%9)
+console.log('9'/'3')
+console.log(NaN -'u')
+console.log(Infinity-9)
